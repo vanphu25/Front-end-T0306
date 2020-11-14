@@ -1,0 +1,15 @@
+body,html{
+    padding:0;
+    margin:0;
+    
+}
+.container{
+    max-width:1170px;
+    margin: 0px auto;
+    padding:50px;
+}
+[data-toggle='name']{
+    padding:15px 25px;
+    color:red;
+    background-color:#ffffff;
+}
